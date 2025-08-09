@@ -55,6 +55,8 @@ export default function EmojiKeyboard() {
           flexDirection: "column",
         }}
       >
+        <h1>HELLO. HERE IS OUR FUNCTIONAL OPENCV PROJECT which helps people play charades using images.</h1>
+        <h1>LINK: https://dashing-croquembouche-8a581c.netlify.app/</h1>
         <h2>
           <b>CHAT LOGS COLUMN</b>
         </h2>
